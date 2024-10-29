@@ -1,6 +1,6 @@
 # Deskreen
 
-[![Github All Releases](https://img.shields.io/github/downloads/mdariel663/deskreen/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/mdariel663/deskreen-update/total.svg)]()
 
 
 # Purposes for the Fork 🚀
@@ -255,9 +255,3 @@ ISC Copyright (c) 2019, Mapbox [pixelmatch](https://github.com/mapbox/pixelmatch
 🙏 Thanks to Github workflows for enabling a robust CI pipeline for the needs of 'forging' 🛠️ Deskreen.
 
 🙏 Many thanks to all 🌍 open source community members and maintainers of libraries used in this project.
-
-## Donate
-
-[Click to donate on Deskreen's Patreon page](https://patreon.com/deskreen)
-
-[Click to donate on Deskreen's Opencollective page](https://opencollective.com/deskreen)
