@@ -12,25 +12,17 @@
 [![codecov](https://codecov.io/gh/pavlobu/deskreen/branch/master/graph/badge.svg?token=fqfBlyXT5O)](https://codecov.io/gh/pavlobu/deskreen)
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-lightgrey)
 
+# Proposes for the fork
 ---
+- I want to propose a new feature to the original project, i have more features to add to the project and i want to make it more stable and more user friendly.
+- Upgrade the project to the latest version of the Electron framework.
+- Design a new UI for the project.
+- Add a new feature to the project.
+- Fix a bug in the project.
+- Improve the performance of the project.
+- Modulate for people who are not want use alls features of the project.
+- Reject a feature that is not suitable for the project.
 
-# DESKREEN CREATOR IS A UKRAINIAN. 🇺🇦 UKRAINE 🇺🇦 NEEDS YOUR HELP ❗️❗️❗️
-
-## [♥️ CLICK HERE TO DONATE TO UKRAINE! ♥️](https://twitter.com/Ukraine/status/1497294840110977024)
-
-If you don't live in a cave and aware of what is going on in the world 🌍 , Russian 🇷🇺 government had started global armed invasion on the territory of Ukraine on the 24th of February 2022. **_This is for real, this is a WAR. Russian army is killing Ukrainian soldiers, Ukrainian civil citizens and Ukrainian children RIGHT NOW because Russian government gave them an order to do so._** You can search online for thousands of videos of what is going on in Ukraine.
-
-Ukrainians fight brave for their land and will never give up. But you must understand that our country is fighting here not for our land only, but for the safety of the whole world. ❗️❗️❗️ **_If Ukraine fails in this war with Russian army and Russian government, the security of all countries in the world 🌍 will be under the threat! Russian government and it's vicious allies and governments from other countries will be moving their armies to YOUR land, sooner or later_** ❗️❗️❗
-
-You must understand that now Ukraine has more people here willing to fight than weapons, military supplies and other inventory for them.
-
-**If you CAN and WANT to support Ukraine 🇺🇦 and Ukrainian army, here is a tweet with instructions from OFFICIAL ✅ account of Ukraine 🇺🇦**
-
-## [♥️ CLICK HERE TO GO TO A TWEET TO DONATE TO UKRAINE! ♥️](https://twitter.com/Ukraine/status/1497294840110977024)
-
-# GLORY TO 🇺🇦 UKRAINE 🇺🇦, GLORY TO UKRAINIAN HEROES! 🇺🇦🇺🇦🇺🇦
-
----
 
 ### ▶️ [Deskreen Youtube channel](https://www.youtube.com/channel/UCyiTK98gjDKGNNjUk9ynzxQ) (video tutorials, demos, use cases for Deskreen day to day usage)
 
@@ -150,7 +142,7 @@ Thank you in advance!
 You will need to have `node` `npm` and `yarn` installed
 globally on your machine.
 
-1. git clone this repo
+1. `git clone this repo`
 2. `cd app/client; yarn install --frozen-lockfile ; cd ../../ ; yarn install --frozen-lockfile`
 3. `yarn dev` -- run in dev mode with live updates
 
@@ -227,7 +219,6 @@ TODO: add how to get started with local SonarCube for Deskreen in details.
 ![sharng-session-init](./doc/init-sharing-session/deskreen-webrtc-screen-sharing-session-initiation-pavlobu-22012021.svg)
 
 ### Benchmarks:
-
 [Benchmarks can be found here](./doc/benchmarks)
 
 ## Note on versioning:
@@ -240,14 +231,12 @@ TODO: add how to get started with local SonarCube for Deskreen in details.
   - `app/package-lock.json` -- in `version` key ex. `1.0.0`
   - `app/client/package.json` -- in `version` key ex. `1.0.0`
 
-## Found typo on https://deskreen.com ?
-
-You can submit your pull request with fix on [Deskreen website locales repo](https://github.com/Deskreen/deskreen-website-locales)
 
 ## Maintainer
-
 - [Pavlo (Paul) Buidenkov](https://www.linkedin.com/in/pavlobu)
 
+## Maintainer of is Fork
+- [Mario Dariel Sires Martinez](https://www.linkedin.com/in/mario-dariel-sires-martinez/)
 ## License
 
 AGPL-3.0 License © [Pavlo (Paul) Buidenkov](https://github.com/pavlobu/deskreen)
@@ -274,8 +263,4 @@ ISC Copyright (c) 2019, Mapbox [pixelmatch](https://github.com/mapbox/pixelmatch
 
 🙏 Many thanks to all 🌍 open source community members and maintainers of libraries used in this project.
 
-## Donate
-
-[Click to donate on Deskreen's Patreon page](https://patreon.com/deskreen)
-
-[Click to donate on Deskreen's Opencollective page](https://opencollective.com/deskreen)
+🙏 The creator of Deskreen is a Ukrainian and lives in Kyiv, Ukraine. He is also a software developer and works on Deskreen full time. - [Pavlo (Paul) Buidenkov](https://www.linkedin.com/in/pavlobu)
