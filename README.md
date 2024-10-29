@@ -20,30 +20,6 @@
 ![codecov-generate](https://github.com/mdariel663/deskreen-update/workflows/codecov/badge.svg)
 [![codecov](https://codecov.io/gh/mdariel663/deskreen-update/branch/master/graph/badge.svg?token=fqfBlyXT5O)](https://codecov.io/gh/mdariel663/deskreen-update)
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-lightgrey)
-
-<<<<<<< Updated upstream
----
-=======
->>>>>>> Stashed changes
-
-# DESKREEN CREATOR IS A UKRAINIAN. 🇺🇦 UKRAINE 🇺🇦 NEEDS YOUR HELP ❗️❗️❗️
-
-## [♥️ CLICK HERE TO DONATE TO UKRAINE! ♥️](https://twitter.com/Ukraine/status/1497294840110977024)
-
-If you don't live in a cave and aware of what is going on in the world 🌍 , Russian 🇷🇺 government had started global armed invasion on the territory of Ukraine on the 24th of February 2022. **_This is for real, this is a WAR. Russian army is killing Ukrainian soldiers, Ukrainian civil citizens and Ukrainian children RIGHT NOW because Russian government gave them an order to do so._** You can search online for thousands of videos of what is going on in Ukraine.
-
-Ukrainians fight brave for their land and will never give up. But you must understand that our country is fighting here not for our land only, but for the safety of the whole world. ❗️❗️❗️ **_If Ukraine fails in this war with Russian army and Russian government, the security of all countries in the world 🌍 will be under the threat! Russian government and it's vicious allies and governments from other countries will be moving their armies to YOUR land, sooner or later_** ❗️❗️❗
-
-You must understand that now Ukraine has more people here willing to fight than weapons, military supplies and other inventory for them.
-
-**If you CAN and WANT to support Ukraine 🇺🇦 and Ukrainian army, here is a tweet with instructions from OFFICIAL ✅ account of Ukraine 🇺🇦**
-
-## [♥️ CLICK HERE TO GO TO A TWEET TO DONATE TO UKRAINE! ♥️](https://twitter.com/Ukraine/status/1497294840110977024)
-
-# GLORY TO 🇺🇦 UKRAINE 🇺🇦, GLORY TO UKRAINIAN HEROES! 🇺🇦🇺🇦🇺🇦
-
----
-
 ### ▶️ [Deskreen Youtube channel](https://www.youtube.com/channel/UCyiTK98gjDKGNNjUk9ynzxQ) (video tutorials, demos, use cases for Deskreen day to day usage)
 
 ## Deskreen turns any device with a web browser into a secondary screen for your computer
@@ -162,15 +138,9 @@ Thank you in advance!
 You will need to have `node` `npm` and `yarn` installed
 globally on your machine.
 
-<<<<<<< Updated upstream
-1. git clone this repo
-2. `cd app/client; yarn install --frozen-lockfile ; cd ../../ ; yarn install --frozen-lockfile`
-3. `yarn dev` -- run in dev mode with live updates
-=======
 1. `git clone this repo`
 2. `cd app/client; pnpm install --frozen-lockfile ; cd ../../ ; pnpm install --frozen-lockfile`
 3. `pnpm dev` -- run in dev mode with live updates
->>>>>>> Stashed changes
 
 ### Useful pnpm commands
 
@@ -217,100 +187,6 @@ SKIP_PREFLIGHT_CHECK=true pnpm test:nowatch -- -u
 ```
 
 ### Run `pnpm test-all` locally to make sure you don't have any errors, before submitting your PR
-```
-
-[0]     npx cross-env BABEL_SHOW_CONFIG_FOR=/media/mariod/Almacen600GB/WorkFlow/deskreen/app/api/config.ts <your build command>
-[0] See https://babeljs.io/docs/configuration#print-effective-configs for more info.
-[0] A JavaScript error occurred in the main process
-[0] Uncaught Exception:
-[0] Error: listen EADDRINUSE: address already in use :::3131
-[0]     at Server.setupListenHandle [as _listen2] (node:net:1334:16)
-[0]     at listenInCluster (node:net:1382:12)
-[0]     at Server.listen (node:net:1469:7)
-[0]     at DeskreenSignalingServer.callListenOnHttpServer (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:149:24)
-[0]     at DeskreenSignalingServer.call (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:144:24)
-[0]     at tryCatch (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at Generator._invoke (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at Generator.next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at asyncGeneratorStep (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at _next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1
-[0]     at new Promise (<anonymous>)
-[0]     at DeskreenSignalingServer.apply (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
-[0]     at DeskreenSignalingServer.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:141:14)
-[0]     at DeskreenApp.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:195:21)
-[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:214:13)
-[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
-[0]     at Module._compile (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:117:24)
-[0]     at Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
-[0]     at Object.newLoader [as .ts] (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:121:7)
-[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
-[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at loadApplicationPackage (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:110:16)
-[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:222:9)
-[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
-[0]     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
-[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
-[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at Object.<anonymous> (node:electron/js2c/browser_init:185:3104)
-[0]     at Object../lib/browser/init.ts (node:electron/js2c/browser_init:185:3308)
-[0]     at __webpack_require__ (node:electron/js2c/browser_init:1:128)
-[0]     at node:electron/js2c/browser_init:1:1200
-[0]     at node:electron/js2c/browser_init:1:1267
-[0]     at NativeModule.compileForInternalLoader (node:internal/bootstrap/loaders:312:7)
-[0]     at NativeModule.compileForPublicLoader (node:internal/bootstrap/loaders:252:10)
-[0]     at loadNativeModule (node:internal/modules/cjs/helpers:49:9)
-[0]     at Module._load (node:internal/modules/cjs/loader:811:15)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
-[0]     at node:internal/main/run_main_module:17:47
-[0] (node:88808) UnhandledPromiseRejectionWarning: TypeError: Cannot read properties of undefined (reading 'v4')
-[0]     at call (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:45:29)
-[0]     at tryCatch (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at Generator._invoke (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at Generator.next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at asyncGeneratorStep (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at _next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1
-[0]     at new Promise (<anonymous>)
-[0]     at apply (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
-[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:61:6
-[0]     at new Promise (<anonymous>)
-[0]     at SharingSessionService.createUser (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:43:12)
-[0]     at new SharingSessionService (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:34:10)
-[0]     at _default (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/utils/mainProcessHelpers/initGlobals.ts:19:42)
-[0]     at DeskreenApp.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:194:16)
-[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:214:13)
-[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
-[0]     at Module._compile (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:117:24)
-[0]     at Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
-[0]     at Object.newLoader [as .ts] (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:121:7)
-[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
-[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at loadApplicationPackage (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:110:16)
-[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:222:9)
-[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
-[0]     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
-[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
-[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at Object.<anonymous> (node:electron/js2c/browser_init:185:3104)
-[0]     at Object../lib/browser/init.ts (node:electron/js2c/browser_init:185:3308)
-[0]     at __webpack_require__ (node:electron/js2c/browser_init:1:128)
-[0]     at node:electron/js2c/browser_init:1:1200
-[0]     at node:electron/js2c/browser_init:1:1267
-[0]     at NativeModule.compileForInternalLoader (node:internal/bootstrap/loaders:312:7)
-[0]     at NativeModule.compileForPublicLoader (node:internal/bootstrap/loaders:252:10)
-[0]     at loadNativeModule (node:internal/modules/cjs/helpers:49:9)
-[0]     at Module._load (node:internal/modules/cjs/loader:811:15)
-[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
-[0]     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
-[0]     at node:internal/main/run_main_module:17:47
-[0] (Use `electron --trace-warnings ...` to show where the warning was created)
-```
 ## Instruction for running a local Sonar Qube, community edition
 
 ### Prerequisites
@@ -351,23 +227,12 @@ TODO: add how to get started with local SonarCube for Deskreen in details.
   - `app/package-lock.json` -- in `version` key ex. `1.0.0`
   - `app/client/package.json` -- in `version` key ex. `1.0.0`
 
-## Found typo on https://deskreen.com ?
-
-You can submit your pull request with fix on [Deskreen website locales repo](https://github.com/Deskreen/deskreen-website-locales)
-
 ## Maintainer
 
 - [Pavlo (Paul) Buidenkov](https://www.linkedin.com/in/pavlobu)
 
-<<<<<<< Updated upstream
-=======
 ## Maintainer of is Fork
 - [Mario Dariel Sires Martinez](https://www.linkedin.com/in/mario-dariel-sires-martinez/)
-
->>>>>>> Stashed changes
-## License
-
-AGPL-3.0 License © [Pavlo (Paul) Buidenkov](https://github.com/mdariel663/deskreen-update)
 
 ## Copyright
 
