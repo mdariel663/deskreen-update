@@ -1,18 +1,30 @@
 # Deskreen
 
-[![Github All Releases](https://img.shields.io/github/downloads/pavlobu/deskreen/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/mdariel663/deskreen/total.svg)]()
 
-![Deskreen Logo](https://raw.githubusercontent.com/pavlobu/deskreen/master/resources/icon.png)
 
-### Website: https://deskreen.com
+# Purposes for the Fork 🚀
+- Propose a new feature that enhances the functionality and accessibility of the original project.
+- Update the project to the latest version of Electron. 
+- Improve the project's performance and efficiency.
+- Add new functionalities that increase the project's utility.
+- Fix bugs that affect the user experience.
+- Improve performance for greater efficiency.
+- Modularize the project for those who don’t need all the features.
+- Reject features that don’t align with the project's purpose.
 
-![release all os -- no code signing](https://github.com/pavlobu/deskreen/workflows/release%20all%20os%20--%20no%20code%20signing/badge.svg)
-![build-and-test](https://github.com/pavlobu/deskreen/workflows/build%20and%20test/badge.svg)
-![codecov-generate](https://github.com/pavlobu/deskreen/workflows/codecov/badge.svg)
-[![codecov](https://codecov.io/gh/pavlobu/deskreen/branch/master/graph/badge.svg?token=fqfBlyXT5O)](https://codecov.io/gh/pavlobu/deskreen)
+### Website of Creators: https://deskreen.com
+
+![release all os -- no code signing](https://github.com/mdariel663/deskreen-update/workflows/release%20all%20os%20--%20no%20code%20signing/badge.svg)
+![build-and-test](https://github.com/mdariel663/deskreen-update/workflows/build%20and%20test/badge.svg)
+![codecov-generate](https://github.com/mdariel663/deskreen-update/workflows/codecov/badge.svg)
+[![codecov](https://codecov.io/gh/mdariel663/deskreen-update/branch/master/graph/badge.svg?token=fqfBlyXT5O)](https://codecov.io/gh/mdariel663/deskreen-update)
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-lightgrey)
 
+<<<<<<< Updated upstream
 ---
+=======
+>>>>>>> Stashed changes
 
 # DESKREEN CREATOR IS A UKRAINIAN. 🇺🇦 UKRAINE 🇺🇦 NEEDS YOUR HELP ❗️❗️❗️
 
@@ -65,38 +77,38 @@ Here are step by step guides:
 
 [Read and Respect our Contributor Covenant Code of Conduct When Writing in our Discussion Threads.](CODE_OF_CONDUCT.md)
 
-### [Announcements Channel in Discussions](https://github.com/pavlobu/deskreen/discussions/71)
+### [Announcements Channel in Discussions](https://github.com/mdariel663/deskreen-update/discussions/71)
 
-Some progress and updates on Deskreen can be found [here](https://github.com/pavlobu/deskreen/discussions/71).
-
----
-
-- [Q&A General](https://github.com/pavlobu/deskreen/discussions/89) - for general questions about Deskreen.
+Some progress and updates on Deskreen can be found [here](https://github.com/mdariel663/deskreen-update/discussions/71).
 
 ---
 
-- [Bugs General](https://github.com/pavlobu/deskreen/discussions/68) - for general bug reports if you don't know dev environment details. Please include Deskreen version!
+- [Q&A General](https://github.com/mdariel663/deskreen-update/discussions/89) - for general questions about Deskreen.
+
+---
+
+- [Bugs General](https://github.com/mdariel663/deskreen-update/discussions/68) - for general bug reports if you don't know dev environment details. Please include Deskreen version!
   If you saw a bug and know your dev environment, and how to reproduce it, please consider opening a new Issue labeled as Bug and provide full details.
 
 ---
 
-- [General Discussion](https://github.com/pavlobu/deskreen/discussions/88) - for general discussion. For example how did you find out about Deskreen? Or send cheers and thanks to anyone in Deskreen's community members. 🎉
+- [General Discussion](https://github.com/mdariel663/deskreen-update/discussions/88) - for general discussion. For example how did you find out about Deskreen? Or send cheers and thanks to anyone in Deskreen's community members. 🎉
 
 ---
 
-- [Use Cases for Deskreen](https://github.com/pavlobu/deskreen/discussions/48) - let our community know how you use Deskreen in this thread.
+- [Use Cases for Deskreen](https://github.com/mdariel663/deskreen-update/discussions/48) - let our community know how you use Deskreen in this thread.
 
 ---
 
-- [Enhancements and New Features for Deskreen](https://github.com/pavlobu/deskreen/discussions/50) - share your ideas of what improvements can be done to Deskreen. Issues created with enhancement tag should be related to some concrete example of change in UI, Security patch, Performance improvement with some concrete notes on how you think the problem should be approached. Otherwise for general improvements with short paragraphs post your thoughts [here](https://github.com/pavlobu/deskreen/discussions/50).
+- [Enhancements and New Features for Deskreen](https://github.com/mdariel663/deskreen-update/discussions/50) - share your ideas of what improvements can be done to Deskreen. Issues created with enhancement tag should be related to some concrete example of change in UI, Security patch, Performance improvement with some concrete notes on how you think the problem should be approached. Otherwise for general improvements with short paragraphs post your thoughts [here](https://github.com/mdariel663/deskreen-update/discussions/50).
 
 ---
 
-- [Virtual Display Drivers Knowledge Base | Getting Rid From Virtual Display Plugs](https://github.com/pavlobu/deskreen/discussions/86) - share your knowledge or useful links on how to create a virtual display for any operating system. Links to source code are highly appreciated.
+- [Virtual Display Drivers Knowledge Base | Getting Rid From Virtual Display Plugs](https://github.com/mdariel663/deskreen-update/discussions/86) - share your knowledge or useful links on how to create a virtual display for any operating system. Links to source code are highly appreciated.
 
 ---
 
-- [Cast Audio with Video when screen sharing using WebRTC in Electron | Drivers to pipe audio output as an audio input source that can be read by ElectronJS WebRTC and streamed to client along with video](https://github.com/pavlobu/deskreen/discussions/92) - this feature has been requested multiple times, but it has a long way to go. Share your knowledge or useful links on how to get built in system audio output and put it to WebRTC stream so that client viewing device will be able to play it along with the video stream.
+- [Cast Audio with Video when screen sharing using WebRTC in Electron | Drivers to pipe audio output as an audio input source that can be read by ElectronJS WebRTC and streamed to client along with video](https://github.com/mdariel663/deskreen-update/discussions/92) - this feature has been requested multiple times, but it has a long way to go. Share your knowledge or useful links on how to get built in system audio output and put it to WebRTC stream so that client viewing device will be able to play it along with the video stream.
 
 ---
 
@@ -115,7 +127,7 @@ The goal of Deskreen is to enable community power and knowledge to overcome thes
 We plan on making virtual display driver support for each of three main operating systems and place all OS related codes in **[`./drivers`](drivers)** subdirectory of this project.
 You can find brief requirements for driver API in **[`./drivers/README.md`](drivers)**.
 
-Share your valuable knowledge on how to create virtual desktop **without a Dummy Display Plug [in this discussion thread.](https://github.com/pavlobu/deskreen/discussions/86)**
+Share your valuable knowledge on how to create virtual desktop **without a Dummy Display Plug [in this discussion thread.](https://github.com/mdariel663/deskreen-update/discussions/86)**
 
 Thank you in advance!
 
@@ -143,63 +155,162 @@ Thank you in advance!
 
 ## Get Started for Developers
 
-### Run `yarn test-all` locally to make sure you don't have any errors, before submitting your PR
+### Run `pnpm test-all` locally to make sure you don't have any errors, before submitting your PR
 
 ### Prerequisites
 
 You will need to have `node` `npm` and `yarn` installed
 globally on your machine.
 
+<<<<<<< Updated upstream
 1. git clone this repo
 2. `cd app/client; yarn install --frozen-lockfile ; cd ../../ ; yarn install --frozen-lockfile`
 3. `yarn dev` -- run in dev mode with live updates
+=======
+1. `git clone this repo`
+2. `cd app/client; pnpm install --frozen-lockfile ; cd ../../ ; pnpm install --frozen-lockfile`
+3. `pnpm dev` -- run in dev mode with live updates
+>>>>>>> Stashed changes
 
-### Useful yarn commands
+### Useful pnpm commands
 
-`yarn start` -- run in production mode to test, without packaging
-`yarn package` -- to package an app and make executables available in `release` folder
+`pnpm start` -- run in production mode to test, without packaging
+`pnpm package` -- to package an app and make executables available in `release` folder
 
-#### for more yarn commands look at `package.json`
+#### for more pnpm commands look at `package.json`
 
 ### How to run tests
 
-`yarn test` -- run all unit tests
-`yarn build-ux && yarn test-ux` -- run User Experience tests (no tests for `app/client` yet)
+`pnpm test` -- run all unit tests
+`pnpm build-ux && pnpm test-ux` -- run User Experience tests (no tests for `app/client` yet)
 
 ### TODO: add e2e tests with host + client app interaction
 
 #### run tests of host app
 
-`yarn test-watch-not-silent` -- run tests in watch mode with console logs only for host app, excluding `app/client`
-`yarn test -- -u` -- update snapshots
+`pnpm test-watch-not-silent` -- run tests in watch mode with console logs only for host app, excluding `app/client`
+`pnpm test -- -u` -- update snapshots
 
 #### run tests for `app/client`
 
-`yarn test` -- run client tests in watch mode
+`pnpm test` -- run client tests in watch mode
 `test:nowatch` -- run client tests a single time
-`yarn test -- -u` -- update snapshots
+`pnpm test -- -u` -- update snapshots
 
 ### Generate test coverage results
 
-`yarn coverage` -- when run from project root, generates a coverage report for `host` and `app/client`
+`pnpm coverage` -- when run from project root, generates a coverage report for `host` and `app/client`
 
-### How to regenerate snapshots if you have tests failing when running `yarn test`?
+### How to regenerate snapshots if you have tests failing when running `pnpm test`?
 
 in root `./` folder of project run this:
 
 ```
-yarn jest --updateSnapshot
+pnpm jest --updateSnapshot
 ```
 
 in Deskreen Viewer `./app/client` folder of project run this:
 
 ```
 cd app/client
-SKIP_PREFLIGHT_CHECK=true yarn test:nowatch -- -u
+SKIP_PREFLIGHT_CHECK=true pnpm test:nowatch -- -u
 ```
 
-### Run `yarn test-all` locally to make sure you don't have any errors, before submitting your PR
+### Run `pnpm test-all` locally to make sure you don't have any errors, before submitting your PR
+```
 
+[0]     npx cross-env BABEL_SHOW_CONFIG_FOR=/media/mariod/Almacen600GB/WorkFlow/deskreen/app/api/config.ts <your build command>
+[0] See https://babeljs.io/docs/configuration#print-effective-configs for more info.
+[0] A JavaScript error occurred in the main process
+[0] Uncaught Exception:
+[0] Error: listen EADDRINUSE: address already in use :::3131
+[0]     at Server.setupListenHandle [as _listen2] (node:net:1334:16)
+[0]     at listenInCluster (node:net:1382:12)
+[0]     at Server.listen (node:net:1469:7)
+[0]     at DeskreenSignalingServer.callListenOnHttpServer (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:149:24)
+[0]     at DeskreenSignalingServer.call (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:144:24)
+[0]     at tryCatch (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at Generator._invoke (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at Generator.next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at asyncGeneratorStep (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at _next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1
+[0]     at new Promise (<anonymous>)
+[0]     at DeskreenSignalingServer.apply (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:2:1)
+[0]     at DeskreenSignalingServer.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/server/index.ts:141:14)
+[0]     at DeskreenApp.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:195:21)
+[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:214:13)
+[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
+[0]     at Module._compile (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:117:24)
+[0]     at Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+[0]     at Object.newLoader [as .ts] (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:121:7)
+[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
+[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at loadApplicationPackage (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:110:16)
+[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:222:9)
+[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
+[0]     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
+[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at Object.<anonymous> (node:electron/js2c/browser_init:185:3104)
+[0]     at Object../lib/browser/init.ts (node:electron/js2c/browser_init:185:3308)
+[0]     at __webpack_require__ (node:electron/js2c/browser_init:1:128)
+[0]     at node:electron/js2c/browser_init:1:1200
+[0]     at node:electron/js2c/browser_init:1:1267
+[0]     at NativeModule.compileForInternalLoader (node:internal/bootstrap/loaders:312:7)
+[0]     at NativeModule.compileForPublicLoader (node:internal/bootstrap/loaders:252:10)
+[0]     at loadNativeModule (node:internal/modules/cjs/helpers:49:9)
+[0]     at Module._load (node:internal/modules/cjs/loader:811:15)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[0]     at node:internal/main/run_main_module:17:47
+[0] (node:88808) UnhandledPromiseRejectionWarning: TypeError: Cannot read properties of undefined (reading 'v4')
+[0]     at call (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:45:29)
+[0]     at tryCatch (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at Generator._invoke (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at Generator.next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at asyncGeneratorStep (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at _next (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1
+[0]     at new Promise (<anonymous>)
+[0]     at apply (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:2:1)
+[0]     at /media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:61:6
+[0]     at new Promise (<anonymous>)
+[0]     at SharingSessionService.createUser (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:43:12)
+[0]     at new SharingSessionService (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/features/SharingSessionService/index.ts:34:10)
+[0]     at _default (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/utils/mainProcessHelpers/initGlobals.ts:19:42)
+[0]     at DeskreenApp.start (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:194:16)
+[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/app/main.dev.ts:214:13)
+[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
+[0]     at Module._compile (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:117:24)
+[0]     at Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+[0]     at Object.newLoader [as .ts] (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/pirates/lib/index.js:121:7)
+[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
+[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at loadApplicationPackage (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:110:16)
+[0]     at Object.<anonymous> (/media/mariod/Almacen600GB/WorkFlow/deskreen/node_modules/electron/dist/resources/default_app.asar/main.js:222:9)
+[0]     at Module._compile (node:internal/modules/cjs/loader:1116:14)
+[0]     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+[0]     at Module.load (node:internal/modules/cjs/loader:988:32)
+[0]     at Module._load (node:internal/modules/cjs/loader:829:12)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at Object.<anonymous> (node:electron/js2c/browser_init:185:3104)
+[0]     at Object../lib/browser/init.ts (node:electron/js2c/browser_init:185:3308)
+[0]     at __webpack_require__ (node:electron/js2c/browser_init:1:128)
+[0]     at node:electron/js2c/browser_init:1:1200
+[0]     at node:electron/js2c/browser_init:1:1267
+[0]     at NativeModule.compileForInternalLoader (node:internal/bootstrap/loaders:312:7)
+[0]     at NativeModule.compileForPublicLoader (node:internal/bootstrap/loaders:252:10)
+[0]     at loadNativeModule (node:internal/modules/cjs/helpers:49:9)
+[0]     at Module._load (node:internal/modules/cjs/loader:811:15)
+[0]     at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+[0]     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[0]     at node:internal/main/run_main_module:17:47
+[0] (Use `electron --trace-warnings ...` to show where the warning was created)
+```
 ## Instruction for running a local Sonar Qube, community edition
 
 ### Prerequisites
@@ -248,9 +359,15 @@ You can submit your pull request with fix on [Deskreen website locales repo](htt
 
 - [Pavlo (Paul) Buidenkov](https://www.linkedin.com/in/pavlobu)
 
+<<<<<<< Updated upstream
+=======
+## Maintainer of is Fork
+- [Mario Dariel Sires Martinez](https://www.linkedin.com/in/mario-dariel-sires-martinez/)
+
+>>>>>>> Stashed changes
 ## License
 
-AGPL-3.0 License © [Pavlo (Paul) Buidenkov](https://github.com/pavlobu/deskreen)
+AGPL-3.0 License © [Pavlo (Paul) Buidenkov](https://github.com/mdariel663/deskreen-update)
 
 ## Copyright
 
